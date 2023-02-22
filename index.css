@@ -4,13 +4,13 @@
 }
 
 body {
-    background-color: white;
+    background-color: rgb(115, 115, 115);
 }
 
 h1 {
     font-size: 20px;
     margin: 19px;
-    color: aliceblue;
+    color: rgb(0, 64, 121);
     font-family: 'Montserrat', sans-serif;
 }
 
