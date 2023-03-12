@@ -36,6 +36,7 @@ button:hover {
         font-family: 'Montserrat', sans-serif;
         margin-right: 10px;
         margin-left: 10px;
+        line-height: 30px;
     }
     body {
         background-color: rgb(255, 255, 255);

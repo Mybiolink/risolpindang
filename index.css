@@ -4,20 +4,17 @@
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: aliceblue;
 }
 
-h1 {
-    font-size: 15px;
-    margin: 19px;
-    color: rgb(0, 64, 121);
-    font-family: 'Montserrat', sans-serif;
+img {
+    padding-bottom: 10px;
 }
 
 .container1 {
     margin: 5px;
     margin-top: 40px;
-    padding-bottom: 50px;
+    padding-bottom: 65px;
     padding-right: ;
     border-radius: 20px;
 }
